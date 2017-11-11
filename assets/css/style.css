@@ -2,6 +2,8 @@ body {
 	background-color: #FEF0B2;
 }
 
+
+
 /*Header*/
 .container {
 	background-color: white;
@@ -29,6 +31,7 @@ h1 {
 	font-size: 20px;
 	margin-top: 100px;
 	color: #DFE0E0;
+	font-family: Helvetica, sans-serif;
 }
 
 #about, #portfolio {
@@ -50,6 +53,9 @@ h2 {
 
 p {
 	margin-top: 20px;
+	font-size: 17px;
+	line-height: 32px;
+	font-family: Helvetica, sans-serif;
 }
 
 .wrap {
@@ -114,6 +120,7 @@ p {
 
 .formname {
 	margin-top: 20px;
+	font-family: Helvetica, sans-serif;
 }
 
 /*Portfolio*/
@@ -148,3 +155,6 @@ p {
 	border-top: solid #888 5px;
 }
 
+h1, h2, h3 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
